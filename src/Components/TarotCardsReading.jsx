@@ -62,6 +62,8 @@ const TarotCardsReading = ()=>{
 
         </>
     )
+
+  
 };
 
 export default TarotCardsReading;
